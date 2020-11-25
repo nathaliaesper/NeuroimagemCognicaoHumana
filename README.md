@@ -1,4 +1,4 @@
-# NeuroimagemCognicaoHumana
+# Neuroimagem da Cognição Humana - Aula de Pré-processamento
 
 Este repositório possui todas as informações necessárias para realizar o pré-processamento e análise estatística (first level) dos dados de fMRI no software SPM.
 
