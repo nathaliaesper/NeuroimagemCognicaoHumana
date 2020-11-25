@@ -6,7 +6,7 @@ A pasta com os dados está organizada da seguinte maneira:
 
 P001 (pasta do voluntário)
 
-    |- ANAT (pasta com o dado anatômico
+    |- ANAT (pasta com o dado anatômico)
 
        |- P001.ANAT.nii
  
