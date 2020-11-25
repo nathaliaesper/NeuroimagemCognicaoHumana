@@ -6,13 +6,13 @@ A pasta com os dados está organizada da seguinte maneira:
 
 P001 (pasta do voluntário)
 
-|- ANAT (pasta com o dado anatômico
+    |- ANAT (pasta com o dado anatômico
 
-   |- P001.ANAT.nii
+       |- P001.ANAT.nii
  
- |- MOT (pasta com o dado da tarefa motora)
+    |- MOT (pasta com o dado da tarefa motora)
  
-    |- P001.MOT.nii
+       |- P001.MOT.nii
     
 Importante: quando for salvar a pasta no computador, procure não usar espaços ou caracteres especiais no nome dos arquivos e das pastas:
 Por exemplo:
